@@ -1,5 +1,5 @@
 ch=input("enter a charecter");
-if(ch>='a' and ch<='z') or (ch>='A' and ch<='Z'):
+if((ch>='a' and ch<='z') or (ch>='A' and ch<='Z')):
   print("alphabet")
 else:
   print("not")
